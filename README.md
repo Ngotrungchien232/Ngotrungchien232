@@ -30,11 +30,34 @@
 ---
 
 ## 📈 Hoạt động trên GitHub
-<div align="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ngotrungchien232&show_icons=true&theme=radical)  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngotrungchien232&layout=compact&theme=radical)  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ngotrungchien232&theme=radical)
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <!-- GitHub Stats Card -->
+  <div style="background: #1e1e1e; padding: 15px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); transition: 0.3s; width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ngotrungchien232&show_icons=true&theme=radical" style="width: 100%; border-radius: 10px;" />
+  </div>
+
+  <!-- Top Languages Card -->
+  <div style="background: #1e1e1e; padding: 15px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); transition: 0.3s; width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngotrungchien232&layout=compact&theme=radical" style="width: 100%; border-radius: 10px;" />
+  </div>
+
+  <!-- GitHub Streak Card -->
+  <div style="background: #1e1e1e; padding: 15px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); transition: 0.3s; width: 300px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngotrungchien232&theme=radical" style="width: 100%; border-radius: 10px;" />
+  </div>
+
 </div>
+
+<!-- Hover effect: đổi màu nhẹ khi di chuột -->
+<style>
+  div[align="center"] > div:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.5);
+    transition: 0.3s;
+  }
+</style>
+
 
 ---
 
