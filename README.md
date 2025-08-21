@@ -16,22 +16,78 @@
 ---
 
 ## 🔧 Kỹ năng chính
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,python,mongodb,git,docker,linux,java,html,css" />
-</p>
-
-<p>
-  <strong>TypeScript:</strong> ▓▓▓▓▓▓▓▓ 90% <br>
-  <strong>Node.js:</strong> ▓▓▓▓▓▓▓▓ 85% <br>
-  <strong>React:</strong> ▓▓▓▓▓▓▓▓ 80% <br>
-  <strong>Python:</strong> ▓▓▓▓▓▓ 60% <br>
+<p align="center">
+  <a href="#" title="TypeScript - 90%">
+    <img src="https://skillicons.dev/icons?i=ts" style="margin:5px;"/>
+  </a>
+  <a href="#" title="Node.js - 85%">
+    <img src="https://skillicons.dev/icons?i=nodejs" style="margin:5px;"/>
+  </a>
+  <a href="#" title="React - 80%">
+    <img src="https://skillicons.dev/icons?i=react" style="margin:5px;"/>
+  </a>
+  <a href="#" title="Python - 65%">
+    <img src="https://skillicons.dev/icons?i=python" style="margin:5px;"/>
+  </a>
+  <a href="#" title="MongoDB - 70%">
+    <img src="https://skillicons.dev/icons?i=mongodb" style="margin:5px;"/>
+  </a>
+  <a href="#" title="Git - 90%">
+    <img src="https://skillicons.dev/icons?i=git" style="margin:5px;"/>
+  </a>
+  <a href="#" title="Docker - 75%">
+    <img src="https://skillicons.dev/icons?i=docker" style="margin:5px;"/>
+  </a>
+  <a href="#" title="Linux - 80%">
+    <img src="https://skillicons.dev/icons?i=linux" style="margin:5px;"/>
+  </a>
+  <a href="#" title="Java - 60%">
+    <img src="https://skillicons.dev/icons?i=java" style="margin:5px;"/>
+  </a>
+  <a href="#" title="HTML - 90%">
+    <img src="https://skillicons.dev/icons?i=html" style="margin:5px;"/>
+  </a>
+  <a href="#" title="CSS - 85%">
+    <img src="https://skillicons.dev/icons?i=css" style="margin:5px;"/>
+  </a>
 </p>
 
 <style>
-  p strong {
-    display: inline-block;
-    width: 100px;
-  }
+a[title]{position:relative;cursor:pointer;}
+a[title]:hover::after{
+  content: attr(title);
+  position: absolute;
+  bottom: 125%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(0,0,0,0.8);
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 6px;
+  white-space: nowrap;
+  font-size: 12px;
+  pointer-events: none;
+  opacity:1;
+  z-index:100;
+}
+a[title]:hover::before{
+  content: "";
+  position: absolute;
+  bottom: 115%;
+  left: 50%;
+  transform: translateX(-50%);
+  border-width: 5px;
+  border-style: solid;
+  border-color: rgba(0,0,0,0.8) transparent transparent transparent;
+  z-index:101;
+}
+
+/* GitHub cards hover */
+div.github-cards > div:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.5);
+  transition: 0.3s;
+}
 </style>
 
 ---
@@ -44,37 +100,21 @@
 ---
 
 ## 📈 Hoạt động trên GitHub
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="center" class="github-cards" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
-  <!-- GitHub Stats Card -->
-  <div style="background: #1e1e1e; padding: 15px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); transition: 0.3s; width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ngotrungchien232&show_icons=true&theme=radical" style="width: 100%; border-radius: 10px;" />
+  <div style="background:#1e1e1e; padding:15px; border-radius:12px; box-shadow:0 5px 15px rgba(0,0,0,0.3); width:300px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ngotrungchien232&show_icons=true&theme=radical" style="width:100%; border-radius:10px;" />
   </div>
 
-  <!-- Top Languages Card -->
-  <div style="background: #1e1e1e; padding: 15px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); transition: 0.3s; width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngotrungchien232&layout=compact&theme=radical" style="width: 100%; border-radius: 10px;" />
+  <div style="background:#1e1e1e; padding:15px; border-radius:12px; box-shadow:0 5px 15px rgba(0,0,0,0.3); width:300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngotrungchien232&layout=compact&theme=radical" style="width:100%; border-radius:10px;" />
   </div>
 
-  <!-- GitHub Streak Card -->
-  <div style="background: #1e1e1e; padding: 15px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); transition: 0.3s; width: 300px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngotrungchien232&theme=radical" style="width: 100%; border-radius: 10px;" />
+  <div style="background:#1e1e1e; padding:15px; border-radius:12px; box-shadow:0 5px 15px rgba(0,0,0,0.3); width:300px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngotrungchien232&theme=radical" style="width:100%; border-radius:10px;" />
   </div>
 
 </div>
-
-<!-- Contribution Calendar -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ngotrungchien232&theme=radical&hide_border=true" width="100%" />
-</p>
-
-<style>
-  div[align="center"] > div:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.5);
-    transition: 0.3s;
-  }
-</style>
 
 ---
 
@@ -84,12 +124,9 @@
 - **Tech:** React, Leaflet, Firebase  
 - 🔗 [Demo](https://ngotrungchien232.github.io/Love_Maps-01/) · [Source](https://github.com/ngotrungchien232/Love_Maps-01)
 
-<div align="center">
-  <a href="https://ngotrungchien232.github.io/Love_Maps-01/" target="_blank">
-    <img src="./assets/lovemap-snap.png" width="300" style="border-radius: 12px; transition: transform 0.3s;" />
-  </a>
-  <p><strong>Hover</strong> để xem chi tiết & tech stack</p>
-</div>
+| Preview | Mô tả nhanh |
+|---|---|
+| <img src="./assets/lovemap-snap.png" width="300" /> | **Love Maps**: Giao diện bản đồ hiện đại, hỗ trợ tìm kiếm & đánh dấu địa điểm. |
 
 ---
 
@@ -101,7 +138,7 @@
 ---
 
 ## 📫 Kết nối với mình
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/yourlinkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://facebook.com/ngotrungchien"><img src="https://skillicons.dev/icons?i=facebook" /></a>
   <a href="mailto:ngotrungchien232@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
