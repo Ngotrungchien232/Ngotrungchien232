@@ -1,30 +1,30 @@
 <!-- Banner động theo Dark/Light mode -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Ngô%20Trung%20Chiến%20🚀&fontSize=48&fontColor=ffffff&animation=shine&fontAlignY=35">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FFC300&height=220&section=header&text=Ngô%20Trung%20Chiến%20🚀&fontSize=48&fontColor=ffffff&animation=shine&fontAlignY=35">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FFC300&height=220&section=header&text=Ngô%20Trung%20Chiến%20🚀&fontSize=48&fontColor=ffffff&animation=shine&fontAlignY=35" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Ngô%20Trung%20Chiến%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:C70039&height=200&section=header&text=Ngô%20Trung%20Chiến%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:C70039&height=200&section=header&text=Ngô%20Trung%20Chiến%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </picture>
 
 # 👋 Xin chào, mình là Ngô Trung Chiến
-**Fullstack Developer | Node.js | React | TypeScript**  
-📍 Hà Nội, Việt Nam · 💼 Open to work · 📫 [Resume (PDF)](./CV.pdf)
+**Tương lai sẽ quyết định** · Fullstack Developer | TypeScript | Node.js | React  
+📍 Hà Nội, Việt Nam · 💼 Open to work · 📫 [Resume (PDF)](./CV.pdf)  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&width=650&lines=Fullstack+Developer+🚀;Yêu+thích+TypeScript,+Node.js,+React;Đam+mê+AI,+Cloud,+DevOps;Luôn+sẵn+sàng+học+hỏi+📖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=FF5733&center=true&vCenter=true&width=600&lines=Fullstack+Developer+🚀;Yêu+thích+TypeScript,+Node.js,+React;Đam+mê+AI,+Cloud,+DevOps;Luôn+sẵn+sàng+học+hỏi+📖)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
 
 ---
 
 ## 🔧 Kỹ năng chính
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=ts,nodejs,react,python,mongodb,git,docker,linux,java,html,css" />
 </p>
 
 ---
 
-## 🌌 Hiệu ứng Matrix + Stars
+## 🌌 Hiệu ứng Matrix Style
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiTnkp8i6Zqcz2sNa/giphy.gif" width="650" alt="matrix rain" />
+  <img src="https://i.gifer.com/origin/4b/4b9d15f91c95fd14e7c36a67f17b22c8_w200.gif" width="600" alt="matrix rain" />
 </p>
 
 ---
@@ -58,21 +58,22 @@
 ---
 
 ## 📫 Kết nối với mình
-<p align="center">
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="https://facebook.com/ngotrungchien"><img src="https://skillicons.dev/icons?i=facebook" width="40" /></a>
-  <a href="mailto:ngotrungchien232@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
-  <a href="https://www.instagram.com/ngtr_chjen/"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
+<p>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://facebook.com/ngotrungchien"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+  <a href="mailto:ngotrungchien232@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.instagram.com/ngtr_chjen/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 ---
 
-📅 *Last updated: 2025-08-21*  
+📅 *Last updated: <!--UPDATED-->2025-08-21*  
+
 ![Visitor Count](https://profile-counter.glitch.me/ngotrungchien232/count.svg)
 
 <!-- Footer động -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:C70039,100:FF5733&height=120&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C70039,100:FF5733&height=120&section=footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:C70039,100:FF5733&height=100&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C70039,100:FF5733&height=100&section=footer" />
 </picture>
