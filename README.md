@@ -66,5 +66,8 @@
 📅 *Last updated: <!--UPDATED-->2025-08-21*  
 
 ![Visitor Count](https://profile-counter.glitch.me/ngotrungchien232/count.svg)  
+## 🐍 Snake animation
+![snake gif](https://github.com/ngotrungchien232/ngotrungchien232/blob/output/github-contribution-grid-snake.svg)
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:C70039,100:900C3F&height=100&section=footer)
