@@ -17,78 +17,18 @@
 
 ## 🔧 Kỹ năng chính
 <p align="center">
-  <a href="#" title="TypeScript - 90%">
-    <img src="https://skillicons.dev/icons?i=ts" style="margin:5px;"/>
-  </a>
-  <a href="#" title="Node.js - 85%">
-    <img src="https://skillicons.dev/icons?i=nodejs" style="margin:5px;"/>
-  </a>
-  <a href="#" title="React - 80%">
-    <img src="https://skillicons.dev/icons?i=react" style="margin:5px;"/>
-  </a>
-  <a href="#" title="Python - 65%">
-    <img src="https://skillicons.dev/icons?i=python" style="margin:5px;"/>
-  </a>
-  <a href="#" title="MongoDB - 70%">
-    <img src="https://skillicons.dev/icons?i=mongodb" style="margin:5px;"/>
-  </a>
-  <a href="#" title="Git - 90%">
-    <img src="https://skillicons.dev/icons?i=git" style="margin:5px;"/>
-  </a>
-  <a href="#" title="Docker - 75%">
-    <img src="https://skillicons.dev/icons?i=docker" style="margin:5px;"/>
-  </a>
-  <a href="#" title="Linux - 80%">
-    <img src="https://skillicons.dev/icons?i=linux" style="margin:5px;"/>
-  </a>
-  <a href="#" title="Java - 60%">
-    <img src="https://skillicons.dev/icons?i=java" style="margin:5px;"/>
-  </a>
-  <a href="#" title="HTML - 90%">
-    <img src="https://skillicons.dev/icons?i=html" style="margin:5px;"/>
-  </a>
-  <a href="#" title="CSS - 85%">
-    <img src="https://skillicons.dev/icons?i=css" style="margin:5px;"/>
-  </a>
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 </p>
-
-<style>
-a[title]{position:relative;cursor:pointer;}
-a[title]:hover::after{
-  content: attr(title);
-  position: absolute;
-  bottom: 125%;
-  left: 50%;
-  transform: translateX(-50%);
-  background: rgba(0,0,0,0.8);
-  color: #fff;
-  padding: 5px 10px;
-  border-radius: 6px;
-  white-space: nowrap;
-  font-size: 12px;
-  pointer-events: none;
-  opacity:1;
-  z-index:100;
-}
-a[title]:hover::before{
-  content: "";
-  position: absolute;
-  bottom: 115%;
-  left: 50%;
-  transform: translateX(-50%);
-  border-width: 5px;
-  border-style: solid;
-  border-color: rgba(0,0,0,0.8) transparent transparent transparent;
-  z-index:101;
-}
-
-/* GitHub cards hover */
-div.github-cards > div:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 10px 20px rgba(0,0,0,0.5);
-  transition: 0.3s;
-}
-</style>
 
 ---
 
@@ -100,18 +40,21 @@ div.github-cards > div:hover {
 ---
 
 ## 📈 Hoạt động trên GitHub
-<div align="center" class="github-cards" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <div style="background:#1e1e1e; padding:15px; border-radius:12px; box-shadow:0 5px 15px rgba(0,0,0,0.3); width:300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ngotrungchien232&show_icons=true&theme=radical" style="width:100%; border-radius:10px;" />
+  <!-- GitHub Stats Card -->
+  <div style="background: #1e1e1e; padding: 15px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); width: 320px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ngotrungchien232&show_icons=true&theme=radical" style="width: 100%; border-radius: 10px;" />
   </div>
 
-  <div style="background:#1e1e1e; padding:15px; border-radius:12px; box-shadow:0 5px 15px rgba(0,0,0,0.3); width:300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngotrungchien232&layout=compact&theme=radical" style="width:100%; border-radius:10px;" />
+  <!-- Top Languages Card -->
+  <div style="background: #1e1e1e; padding: 15px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); width: 320px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngotrungchien232&layout=compact&theme=radical" style="width: 100%; border-radius: 10px;" />
   </div>
 
-  <div style="background:#1e1e1e; padding:15px; border-radius:12px; box-shadow:0 5px 15px rgba(0,0,0,0.3); width:300px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngotrungchien232&theme=radical" style="width:100%; border-radius:10px;" />
+  <!-- GitHub Streak Card -->
+  <div style="background: #1e1e1e; padding: 15px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.3); width: 320px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngotrungchien232&theme=radical" style="width: 100%; border-radius: 10px;" />
   </div>
 
 </div>
@@ -120,7 +63,7 @@ div.github-cards > div:hover {
 
 ## 📌 Dự án nổi bật
 ### 🚀 Love Maps
-- 🌍 Ứng dụng bản đồ tương tác: tìm kiếm, filter, lưu yêu thích.  
+- 🌍 Ứng dụng bản đồ tương tác: tìm kiếm, filter, lưu yêu thích  
 - **Tech:** React, Leaflet, Firebase  
 - 🔗 [Demo](https://ngotrungchien232.github.io/Love_Maps-01/) · [Source](https://github.com/ngotrungchien232/Love_Maps-01)
 
