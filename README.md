@@ -1,13 +1,17 @@
-<!-- Banner mở đầu -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:C70039&height=200&section=header&text=Ngô%20Trung%20Chiến%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+<!-- Banner động theo Dark/Light mode -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Ngô%20Trung%20Chiến%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:C70039&height=200&section=header&text=Ngô%20Trung%20Chiến%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:C70039&height=200&section=header&text=Ngô%20Trung%20Chiến%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</picture>
 
 # 👋 Xin chào, mình là Ngô Trung Chiến  
-**Tương lai sẽ quyết định** · TypeScript | Node.js | React  
+**Tương lai sẽ quyết định** · Fullstack Developer | TypeScript | Node.js | React  
 📍 Hà Nội, Việt Nam · 💼 Open to work · 📫 [Resume (PDF)](./CV.pdf)  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=FF5733&center=true&vCenter=true&width=600&lines=Fullstack+Developer+🚀;Yêu+thích+TypeScript,+Node.js,+React;Đam+mê+AI,+Cloud,+DevOps;Luôn+sẵn+sàng+học+hỏi+📖)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="300" src="./assets/coding.gif" />
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
 
 ---
 
@@ -16,9 +20,12 @@
   <img src="https://skillicons.dev/icons?i=ts,nodejs,react,python,mongodb,git,docker,linux,java,html,css" />
 </p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-Advanced-green?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react)
+---
+
+## 🌌 Hiệu ứng Matrix Style
+<p align="center">
+  <img src="https://i.gifer.com/origin/4b/4b9d15f91c95fd14e7c36a67f17b22c8_w200.gif" width="600" alt="matrix rain" />
+</p>
 
 ---
 
@@ -46,9 +53,6 @@
 ---
 
 ## 🏆 Thành tựu & Badge
-- 🥇 **Top Contributor** trong các dự án open-source nhỏ.  
-- 📚 Hoàn thành các khóa học về **Fullstack Web Dev, Cloud Fundamentals**.  
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ngotrungchien232&theme=radical&no-frame=true&row=1&column=6" />
 </p>
@@ -56,18 +60,30 @@
 ---
 
 ## 📫 Kết nối với mình
-- 🔗 [LinkedIn](https://linkedin.com/in/yourlinkedin)  
-- 🌐 [Facebook](https://www.facebook.com/ngotrungchien)  
-- 📧 [Gmail](mailto:ngotrungchien232@gmail.com)  
-- 📷 [Instagram](https://www.instagram.com/ngtr_chjen/)  
+<p>
+  <a href="https://linkedin.com/in/yourlinkedin">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://facebook.com/ngotrungchien">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
+  <a href="mailto:ngotrungchien232@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.instagram.com/ngtr_chjen/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
 
 ---
 
 📅 *Last updated: <!--UPDATED-->2025-08-21*  
 
 ![Visitor Count](https://profile-counter.glitch.me/ngotrungchien232/count.svg)  
-## 🐍 Snake animation
-![snake gif](https://github.com/ngotrungchien232/ngotrungchien232/blob/output/github-contribution-grid-snake.svg)
 
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:C70039,100:900C3F&height=100&section=footer)
+<!-- Footer động -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:C70039,100:FF5733&height=100&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C70039,100:FF5733&height=100&section=footer" />
+</picture>
