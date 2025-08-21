@@ -20,6 +20,20 @@
   <img src="https://skillicons.dev/icons?i=ts,nodejs,react,python,mongodb,git,docker,linux,java,html,css" />
 </p>
 
+<p>
+  <strong>TypeScript:</strong> ▓▓▓▓▓▓▓▓ 90% <br>
+  <strong>Node.js:</strong> ▓▓▓▓▓▓▓▓ 85% <br>
+  <strong>React:</strong> ▓▓▓▓▓▓▓▓ 80% <br>
+  <strong>Python:</strong> ▓▓▓▓▓▓ 60% <br>
+</p>
+
+<style>
+  p strong {
+    display: inline-block;
+    width: 100px;
+  }
+</style>
+
 ---
 
 ## 🌌 Hiệu ứng Matrix Style
@@ -49,7 +63,11 @@
 
 </div>
 
-<!-- Hover effect: đổi màu nhẹ khi di chuột -->
+<!-- Contribution Calendar -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ngotrungchien232&theme=radical&hide_border=true" width="100%" />
+</p>
+
 <style>
   div[align="center"] > div:hover {
     transform: translateY(-5px);
@@ -57,7 +75,6 @@
     transition: 0.3s;
   }
 </style>
-
 
 ---
 
@@ -67,9 +84,12 @@
 - **Tech:** React, Leaflet, Firebase  
 - 🔗 [Demo](https://ngotrungchien232.github.io/Love_Maps-01/) · [Source](https://github.com/ngotrungchien232/Love_Maps-01)
 
-| Preview | Mô tả nhanh |
-|---|---|
-| <img src="./assets/lovemap-snap.png" width="300" /> | **Love Maps**: Giao diện bản đồ hiện đại, hỗ trợ tìm kiếm & đánh dấu địa điểm. |
+<div align="center">
+  <a href="https://ngotrungchien232.github.io/Love_Maps-01/" target="_blank">
+    <img src="./assets/lovemap-snap.png" width="300" style="border-radius: 12px; transition: transform 0.3s;" />
+  </a>
+  <p><strong>Hover</strong> để xem chi tiết & tech stack</p>
+</div>
 
 ---
 
