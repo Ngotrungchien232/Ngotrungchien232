@@ -1,3 +1,10 @@
+
+
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ngô%20Trung%20Chiến%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+
+
 # 👋 Xin chào, mình là Ngô Trung Chiến 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=Hello,+I'm+Trung!;Welcome+to+my+GitHub!;Fullstack+Developer+🚀;Love+Coding+💻)](https://git.io/typing-svg)
 
@@ -40,3 +47,6 @@
 ---
 
 ![Visitor Count](https://profile-counter.glitch.me/ngotrungchien/count.svg)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
